@@ -1,0 +1,13 @@
+C:\Users\BA010785\Rust\progrust\ch02\iron-gcd\target\debug\deps\liblibc-edbe34ecfa4c9488.rlib: C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\lib.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\macros.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\dox.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\windows.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\redox\mod.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\redox\net.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\cloudabi\mod.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\fuchsia\mod.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\unix\mod.rs
+
+C:\Users\BA010785\Rust\progrust\ch02\iron-gcd\target\debug\deps\libc-edbe34ecfa4c9488.d: C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\lib.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\macros.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\dox.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\windows.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\redox\mod.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\redox\net.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\cloudabi\mod.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\fuchsia\mod.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\unix\mod.rs
+
+C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\lib.rs:
+C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\macros.rs:
+C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\dox.rs:
+C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\windows.rs:
+C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\redox\mod.rs:
+C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\redox\net.rs:
+C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\cloudabi\mod.rs:
+C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\fuchsia\mod.rs:
+C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\libc-0.2.39\src\unix\mod.rs:

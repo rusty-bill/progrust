@@ -1,0 +1,9 @@
+C:\Users\BA010785\Rust\progrust\ch02\iron-gcd\target\debug\deps\libunicode_normalization-5753838af2031ddd.rlib: C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-normalization-0.1.5\src\lib.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-normalization-0.1.5\src\decompose.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-normalization-0.1.5\src\normalize.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-normalization-0.1.5\src\recompose.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-normalization-0.1.5\src\tables.rs
+
+C:\Users\BA010785\Rust\progrust\ch02\iron-gcd\target\debug\deps\unicode_normalization-5753838af2031ddd.d: C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-normalization-0.1.5\src\lib.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-normalization-0.1.5\src\decompose.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-normalization-0.1.5\src\normalize.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-normalization-0.1.5\src\recompose.rs C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-normalization-0.1.5\src\tables.rs
+
+C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-normalization-0.1.5\src\lib.rs:
+C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-normalization-0.1.5\src\decompose.rs:
+C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-normalization-0.1.5\src\normalize.rs:
+C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-normalization-0.1.5\src\recompose.rs:
+C:\Users\BA010785\.cargo\registry\src\github.com-1ecc6299db9ec823\unicode-normalization-0.1.5\src\tables.rs:
